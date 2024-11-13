@@ -9,4 +9,4 @@
 **/triggers/**
 **/lwc/**
 **/pages/**
-**/flows/**
+**/flows/*.xml
